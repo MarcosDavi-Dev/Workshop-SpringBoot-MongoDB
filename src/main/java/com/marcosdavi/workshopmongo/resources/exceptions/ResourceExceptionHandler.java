@@ -1,4 +1,4 @@
-package com.marcosdavi.workshopmongo.resource.exceptions;
+package com.marcosdavi.workshopmongo.resources.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
